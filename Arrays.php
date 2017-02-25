@@ -1,0 +1,13 @@
+* unset
+* count
+* reset
+* end
+* array_push
+* array_pop
+* array_unshift
+* array_shift
+* array_merge
+* sort
+* rsort
+* array_slice
+* array_splice
